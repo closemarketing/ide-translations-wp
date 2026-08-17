@@ -10,6 +10,7 @@ glossary/
   locale-fr.csv                 Glosario de términos en francés
   locale-it.csv                 Glosario de términos en italiano
   locale-de.csv                 Glosario de términos en alemán
+  locale-ca.csv                 Glosario de términos en catalán
 
 translations-xliff/
   <carpeta-job>/                Una carpeta por cada trabajo de traducción WPML
